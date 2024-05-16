@@ -1,0 +1,13 @@
+$ no-prelude
+
+mp2
+ph
+ps
+( ph -> ( ps -> ch ) )
+ch
+
+mp2b
+ph
+( ph -> ps )
+( ps -> ch )
+ch

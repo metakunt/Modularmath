@@ -1,0 +1,13 @@
+name = mp2
+description = A double modus ponens inference
+author.1 = NM
+date.1 = 1994-04-05
+reason.1 = contribution
+author.2 = mku
+date.2 = 2024-04-05
+reason.2 = revision
+
+name = mp2b
+description = A double modus ponens inference
+author.1 = Mario Carneiro
+date.1 = 2013-01-24

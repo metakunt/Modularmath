@@ -1,0 +1,13 @@
+ax-mp
+ph
+( ph -> ps )
+ps
+
+ax-1
+( ph -> ( ps -> ph ) )
+
+ax-2
+( ( ph -> ( ps -> ch ) ) -> ( ( ph -> ps ) -> ( ph -> ch ) ) )
+
+ax-3
+( ( -. ph -> ps ) -> ( ps -> ph ) )
